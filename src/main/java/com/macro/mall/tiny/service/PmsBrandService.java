@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * PmsBrandService
+ * 添加Service接口
  * Created by macro on 2019/4/19.
  */
 public interface PmsBrandService {

@@ -33,10 +33,10 @@ public class Swagger2Config {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("SwaggerUI演示")
-                .description("mall-tiny")
-                .contact("macro")
-                .version("1.0")
+                .title("SwaggerUI演示CCC")
+                .description("mall-tinyCCC")
+                .contact("macroCC")
+                .version("1.0CCC")
                 .build();
     }
 }

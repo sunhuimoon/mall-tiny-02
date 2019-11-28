@@ -28,6 +28,8 @@ public class PmsBrandController {
     @Autowired
     private PmsBrandService brandService;
 
+
+//    使用指定类初始化日志对象
     private static final Logger LOGGER = LoggerFactory.getLogger(PmsBrandController.class);
 
     @ApiOperation("获取所有品牌列表")
